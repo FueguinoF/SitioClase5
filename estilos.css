@@ -4,63 +4,7 @@
     box-sizing: border-box;
 }
 
-.frmdolarespesos {
-    width: 500px;
-    background-color:aquamarine;
-    padding: 30px;
-    margin: auto;
-    margin-top: 10 px;
-    border: 1px solid black;
-    border-radius: 4px;
-    font-family: 'calibri'
-}
-
-.frmpesosdolares {
-    width: 500px;
-    background-color:aquamarine;
-    padding: 30px;
-    margin: auto;
-    margin-top: 10 px;
-    border: 1px solid black;
-    border-radius: 4px;
-    font-family: 'calibri'
-}
-
-.frmconversorgrados {
-    width: 500px;
-    background-color:aquamarine;
-    padding: 30px;
-    margin: auto;
-    margin-top: 10 px;
-    border: 1px solid black;
-    border-radius: 4px;
-    font-family: 'calibri'
-}
-
-.frmencargocaja {
-    width: 500px;
-    background-color:aquamarine;
-    padding: 30px;
-    margin: auto;
-    margin-top: 10 px;
-    border: 1px solid black;
-    border-radius: 4px;
-    font-family: 'calibri'
-}
-
-
-.frmpersonas{
-    width: 500px;
-    background-color:aquamarine;
-    padding: 30px;
-    margin: auto;
-    margin-top: 10 px;
-    border: 1px solid black;
-    border-radius: 4px;
-    font-family: 'calibri'
-} 
-
-.juegonum{
+.frmdolarespesos, .frmpesosdolares, .frmconversorgrados, .frmencargocaja, .frmpersonas, .juegonum {
     width: 500px;
     background-color:aquamarine;
     padding: 30px;
